@@ -8,5 +8,5 @@ Hi, I'm Daniel Roth!
 
   One thing led to another, and I stumbled into the perfect fit for my interests: Full Stack Development. Now, I'm on a mission to create awesome projects and build a career doing what I love!
   
-📫 How to reach me: https://www.linkedin.com/in/daniel-roth-945856239/
-⚡ Fun fact: I can surf 🌊, play guitar 🎸, and I will challenge anyone to a game of chess ♖
+- 📫 How to reach me: https://www.linkedin.com/in/daniel-roth-945856239/
+- ⚡ Fun fact: I can surf 🌊, play guitar 🎸, and I will challenge anyone to a game of chess ♖
