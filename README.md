@@ -7,13 +7,6 @@ Hi, I'm Daniel Roth!
   I discovered Flask and Django, which let me whip up robust applications for any wild idea I had. The thrill of managing every part of an app, from APIs to databases, was exciting. To make my web apps even more user-friendly, I picked up JavaScript and React. React's speed and control over the DOM got me excited about front-end development.
 
   One thing led to another, and I stumbled into the perfect fit for my interests: Full Stack Development. Now, I'm on a mission to create awesome projects and build a career doing what I love!
-
-
-
-
-
-- 🔭 I have been primarily programming in python for 2 years!
-- 🌱 I’m currently learning Javascript and React
-- 🛠️ I specialize in Django Web Framework
-- 📫 How to reach me: https://www.linkedin.com/in/daniel-roth-945856239/
-- ⚡ Fun fact: I can surf 🌊, play guitar 🎸, and I will challenge anyone to a game of chess ♖
+  
+📫 How to reach me: https://www.linkedin.com/in/daniel-roth-945856239/
+⚡ Fun fact: I can surf 🌊, play guitar 🎸, and I will challenge anyone to a game of chess ♖
