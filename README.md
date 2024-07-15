@@ -1,12 +1,12 @@
 Hi, I'm Daniel Roth!
 
-  I started programming in 2022 when I got hooked on making fun games to share with my friends. I kicked things off with Python, thanks to the awesome Pygame library for creating 2D games. The instant feedback from solving problems with code had me hooked, and I knew I wanted to dive deeper into programming.
+I began programming in 2022, initially drawn in by the excitement of creating fun games to share with friends using Python and the Pygame library. The instant gratification of solving problems with code captivated me, fueling my desire to delve deeper into programming.
 
-  While in my sophomore year of college, I enrolled in a computer science course that turbocharged my skills. Realizing that Python games were just the beginning, I decided to explore web development to share my projects with a broader audience.
+During my sophomore year of college, I enrolled in a computer science course that significantly enhanced my skills. Realizing that Python games were just the beginning, I expanded into web development to reach a broader audience with my projects.
 
-  I discovered Flask and Django, which let me whip up robust applications for any wild idea I had. The thrill of managing every part of an app, from APIs to databases, was exciting. To make my web apps even more user-friendly, I picked up JavaScript and React. React's speed and control over the DOM got me excited about front-end development.
+Discovering Flask and Django enabled me to build robust applications for various innovative ideas. The thrill of managing every aspect of an app, from APIs to databases, was exhilarating. To further enhance user experience, I learned JavaScript and React, finding React’s speed and DOM control particularly exciting.
 
-  One thing led to another, and I stumbled into the perfect fit for my interests: Full Stack Development. Now, I'm on a mission to create awesome projects and build a career doing what I love!
+This journey naturally led me to Full Stack Development, which perfectly aligns with my interests. Now, I'm dedicated to creating impactful projects and building a career in this field.
   
 - 📫 How to reach me: https://www.linkedin.com/in/daniel-roth-945856239/
 - ⚡ Fun fact: I can surf 🌊, play guitar 🎸, and I will challenge anyone to a game of chess ♖
